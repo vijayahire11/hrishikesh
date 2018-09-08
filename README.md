@@ -1,2 +1,0 @@
-# hrishikesh
-test repository
